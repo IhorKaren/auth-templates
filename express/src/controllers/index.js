@@ -1,1 +1,0 @@
-export { default as authControllers } from "./auth/index.js";
